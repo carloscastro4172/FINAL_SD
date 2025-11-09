@@ -148,11 +148,5 @@ This sample provides a simple example of integrating this FL framework into "act
 [comment]: <> (- [STADLE code documentation]&#40;https://tie-set.github.io/stadle_dev/&#41;)
 
 
-## Contributing
 
-[comment]: <> (### Tech Support / Bug Reports)
-Please reach out to our technical support team via [support@tie-set.com](support@tie-set.com) for any issues or bugs.
-
-[comment]: <> (## License)
-[comment]: <> (Any use and distribution of this code must be under the NDA with [TieSet Inc.]&#40;https://tie-set.com/&#41;.)
 
